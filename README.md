@@ -60,6 +60,6 @@ Free family-friendly event featuring carnival, food, live music, car show, parad
 
 ## 🙏 Credits
 
-Built from the official **2026 Logistics Document** and district maps by Freeport Festivals Inc. / Chiron7 Advocacy & Justice Solutions.
+Built from the official **2026 Logistics Document** and district maps by Freeport Festivals Inc. / Nakita Woods
 
 Last updated: June 25, 2026 • REV G (Logistics-Verified)
